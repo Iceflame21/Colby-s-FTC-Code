@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scenes\Scripts\StatusIndicator.cs">
+    <Files>
+      <File FileName="Assets\Scenes\Scripts\LevelManager.cs" Line="101" Column="21" />
+      <File FileName="Assets\Scenes\Scripts\Player\basePlayer.cs" Line="119" Column="15" />
+      <File FileName="Assets\Scenes\Scripts\ButtonScript.cs" Line="32" Column="20" />
+      <File FileName="Assets\Scenes\Scripts\Enemy.cs" Line="81" Column="21" />
+      <File FileName="Assets\Scenes\Scripts\StatusIndicator.cs" Line="26" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
